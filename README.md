@@ -1,0 +1,1 @@
+# KP_VIP_VERSION

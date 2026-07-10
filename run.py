@@ -1,3 +1,3 @@
 import kp
 
-free.main()
+kp.main()
